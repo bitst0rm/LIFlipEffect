@@ -30,4 +30,4 @@ To use LIFlipEffect in your own projects, make sure to link to the QuartzCore.fr
 
 h3. Licensing
 
-This code is licensed under the BSD license. If you use it, please post me a message at mark.onyschuk@lorem.ca - I'd love to hear from you! I'm also available to work on any complex Cocoa tasks - I'm familiar with it all, and have been working in the environment since the days of NeXT Computer and NeXTstep.
+This code is licensed under the BSD license. If you use it, please post me a message at mark.onyschuk@me.com - I'd love to hear from you!
